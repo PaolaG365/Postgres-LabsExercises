@@ -1,0 +1,1 @@
+DROP DATABASE minions_db; -- WITH (FORCE) -- to actually delete database

@@ -1,0 +1,1 @@
+TRUNCATE minions_info; -- deletes data in table
